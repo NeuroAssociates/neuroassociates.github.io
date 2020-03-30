@@ -1,2 +1,2 @@
-# site
+# website
 Neuro Associates's Web Site
