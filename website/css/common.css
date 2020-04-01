@@ -1,0 +1,10 @@
+@import url( "http://fonts.googleapis.com/earlyaccess/notosanskr.css" );
+
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: -apple-system, HelveticaNeue, "Noto Sans KR", sans-serif;
+    background-color: #FFFFFF;
+    line-height: 1.45em;
+}
+
