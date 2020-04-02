@@ -92,36 +92,55 @@ var seaStack;
         
         if (json == null || json.seaData == null) return;
         
-        let element = document.createElement("seaData");
-        element.innerHTML = html;
+        let rootElement = document.createElement("seaDataSet");
         
         json.seaData.map(data => {
+            let itemElement = document.createElement("seaData");
+            itemElement.innerHTML = html;
         
             let entryElements = ["TITLE", "HEADER", "NAV", "FOOTER", "ARTICLE", "SECTION", "UL", "LI", "H1", "H2", "DIV", "SPAN", "P", "SVG", "A", "IMG"];
             
             entryElements.map(entryElement => {
         
-                Array.from(element.getElementsByTagName(entryElement)).forEach((element) => {
+                Array.from(itemElement.getElementsByTagName(entryElement)).forEach((element) => {
         
+                    var isValueless = true;
+
                     let seaAttributeName = element.getAttribute("sea-attribute-name");
                     let seaAttributeValue = element.getAttribute("sea-attribute-value");
                     
                     if (seaAttributeName !== null && seaAttributeName.length > 0
-                        && seaAttributeValue !== null && seaAttributeValue.length > 0) {
+                        && seaAttributeValue !== null && seaAttributeValue.length > 0
+                        && data[seaAttributeValue] !== null && data[seaAttributeValue].length > 0) {
 
-                        element.setAttribute(seaAttributeName, data[seaAttributeValue]);
+                            element.setAttribute(seaAttributeName, data[seaAttributeValue]);
+                            isValueless = false;
                     }
                     
                     let seaValue = element.getAttribute("sea-value");
                     
-                    if (seaValue !== null && seaValue.length > 0) {
+                    if (seaValue !== null && seaValue.length > 0
+                        && data[seaValue] !== null && data[seaValue].length > 0) {
+
                         element.innerHTML = data[seaValue];
+                        isValueless = false;
                     }
+                        
+                    let seaValuelessHidden = element.getAttribute("sea-valueless-hidden");
+
+                    if (seaValuelessHidden !== null && seaValuelessHidden.length > 0 
+                        && isValueless === true) {
+                        
+                        element.setAttribute("hidden", "");
+                    }
+                        
                 });
             });
+
+            rootElement.innerHTML = rootElement.innerHTML + itemElement.innerHTML;
         });
         
-        return element.innerHTML;
+        return rootElement.innerHTML;
     }
     seaStack.replaceDataToHTML = replaceDataToHTML;
 
