@@ -1,18 +1,15 @@
-<div>
-    <h1 sea-value="year"></h1>
-    <h2 sea-value="title"></h2>
-    <h2 sea-value="client"></h2>
-    <div sea-value="description"></div>
-
-    <a sea-attribute-name="href" sea-attribute-value="url_site">
-        <div>웹사이트</div>
-    </a>
-
-    <a sea-attribute-name="href" sea-attribute-value="url_youtube" sea-valueless-hidden="yes">
-        <div>유튜브</div>
-    </a>
-
-    <img sea-attribute-name="src" sea-attribute-value="url_image" />
-    
-    <hr />
+<div class="div_work_cell">
+    <div>
+        <img sea-attribute-name="src" sea-attribute-value="url_image" />
+    </div>
+    <div>
+        <div class="div_work_cell_title" sea-value="year"></div>
+        <div class="div_work_cell_client" sea-value="title">한국정보화진흥원+뉴로어소시에이츠</div>
+        <div class="div_work_cell_client" sea-value="year"></div>
+        <div class="div_work_cell_description" sea-value="description"></div>
+        <div class="div_linkbox">
+            <a target="_blank" sea-attribute-name="href" sea-attribute-value="url_site">바로가기</a>
+            <a target="_blank" sea-attribute-name="href" sea-attribute-value="url_youtube" sea-valueless-hidden="yes">유튜브</a>
+        </div>
+    </div>
 </div>

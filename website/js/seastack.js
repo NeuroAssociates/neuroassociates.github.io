@@ -51,7 +51,7 @@ var seaStack;
 
     function replaceHTML() {
         
-        if (!(this.seaElements instanceof Array)) return;
+        if (!(this.seaElements instanceof Array)) return this;
 
         this.seaElements.map(seaElement => {
         
@@ -89,7 +89,7 @@ var seaStack;
 
     function replaceDataToHTML(html, json) {
         
-        if (json == null || json.seaData == null) return;
+        if (json == null || json.seaData == null) return "";
         
         let rootElement = document.createElement("seaDataSet");
         
