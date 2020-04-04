@@ -12,7 +12,8 @@
 var seaStack;
 (function(seaStack) {
 
-    var seaElements = [];
+    seaStack.seaElements = [];
+    seaStack.entryElements = ["TITLE", "HEADER", "NAV", "FOOTER", "ARTICLE", "SECTION", "UL", "LI", "H1", "H2", "DIV", "SPAN", "P", "SVG", "A", "IMG", "VIDEO", "AUDIO"];
 
     function init(element) {
         if (!(element instanceof HTMLElement)) return;
@@ -27,9 +28,7 @@ var seaStack;
 
         this.seaElements = [];
 
-        let entryElements = ["TITLE", "HEADER", "NAV", "FOOTER", "ARTICLE", "SECTION", "UL", "LI", "H1", "H2", "DIV", "SPAN", "P", "SVG", "A"];
-        
-        entryElements.map(entryElement => {
+        this.entryElements.map(entryElement => {
         
             Array.from(rootElement.getElementsByTagName(entryElement)).forEach((element) => {
 
@@ -98,9 +97,7 @@ var seaStack;
             let itemElement = document.createElement("seaData");
             itemElement.innerHTML = html;
         
-            let entryElements = ["TITLE", "HEADER", "NAV", "FOOTER", "ARTICLE", "SECTION", "UL", "LI", "H1", "H2", "DIV", "SPAN", "P", "SVG", "A", "IMG"];
-            
-            entryElements.map(entryElement => {
+            this.entryElements.map(entryElement => {
         
                 Array.from(itemElement.getElementsByTagName(entryElement)).forEach((element) => {
         
