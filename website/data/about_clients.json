@@ -1,0 +1,120 @@
+{
+    "seaData": [
+        {
+            "title": "서울특별시",
+            "image_url": "/img/logo_client_01.png"
+        },
+        {
+            "title": "경기도",
+            "image_url": "/img/logo_client_02.png"
+        },
+        {
+            "title": "행정자치부",
+            "image_url": "/img/logo_client_03.png"
+        },
+        {
+            "title": "검찰",
+            "image_url": "/img/logo_client_04.png"
+        },
+        {
+            "title": "정보통신산업진흥원",
+            "image_url": "/img/logo_client_05.png"
+        },
+        {
+            "title": "PRGATE",
+            "image_url": "/img/logo_client_06.png"
+        },
+        {
+            "title": "서울크리에이티브랩",
+            "image_url": "/img/logo_client_07.png"
+        },
+        {
+            "title": "서울대학교",
+            "image_url": "/img/logo_client_08.png"
+        },
+        {
+            "title": "제일기획",
+            "image_url": "/img/logo_client_09.png"
+        },
+        {
+            "title": "한국암웨이",
+            "image_url": "/img/logo_client_10.png"
+        },
+        {
+            "title": "코오롱",
+            "image_url": "/img/logo_client_11.png"
+        },
+        {
+            "title": "인컴피알재단",
+            "image_url": "/img/logo_client_12.png"
+        },
+        {
+            "title": "브로더 파트너스 기아자동차",
+            "image_url": "/img/logo_client_13.png"
+        },
+        {
+            "title": "브로더 파트너스 LG",
+            "image_url": "/img/logo_client_14.png"
+        },
+        {
+            "title": "한국도로공사 도로교통연구원",
+            "image_url": "/img/logo_client_15.png"
+        },
+        {
+            "title": "문화체육관광부",
+            "image_url": "/img/logo_client_16.png"
+        },
+        {
+            "title": "중앙SUNDAY",
+            "image_url": "/img/logo_client_17.png"
+        },
+        {
+            "title": "서울연구원",
+            "image_url": "/img/logo_client_18.png"
+        },
+        {
+            "title": "보건복지부",
+            "image_url": "/img/logo_client_19.png"
+        },
+        {
+            "title": "SK경영경제연구소",
+            "image_url": "/img/logo_client_20.png"
+        },
+        {
+            "title": "KT",
+            "image_url": "/img/logo_client_21.png"
+        },
+        {
+            "title": "European Journalism Centre",
+            "image_url": "/img/logo_client_22.png"
+        },
+        {
+            "title": "한국보건복지인력개발원",
+            "image_url": "/img/logo_client_23.png"
+        },
+        {
+            "title": "조선대학교",
+            "image_url": "/img/logo_client_24.png"
+        },
+        {
+            "title": "코스틸",
+            "image_url": "/img/logo_client_25.png"
+        },
+        {
+            "title": "조선일보",
+            "image_url": "/img/logo_client_26.png"
+        },
+        {
+            "title": "롯데인재개발원",
+            "image_url": "/img/logo_client_27.png"
+        },
+        {
+            "title": "한국핀테크산업협회",
+            "image_url": "/img/logo_client_28.png"
+        },
+        {
+            "title": "우리금융경영연구소",
+            "image_url": "/img/logo_client_29.png"
+        }
+    ]
+}
