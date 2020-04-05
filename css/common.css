@@ -15,9 +15,10 @@ div {
 }
 
 header {
-    margin-top: 15px;
+    margin-top: 0px;
+    padding-top: 15px;
     margin-bottom: 85px;
-    background-color: #FFFFFF;
+    background-color: #0F2834;
     color: #232322;
     font-size: 17px;
     text-align: left;
@@ -34,8 +35,8 @@ header {
     margin-bottom: 35px;
     
     border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #D7DCDD;
+    border-bottom-width: 45px;
+    border-bottom-color: #FFFFFF;
 }
 
 .div_header_main div {
@@ -52,9 +53,12 @@ header {
 
 .span_header_menu_item a {
     text-decoration: none;
-    color: #616264;
-    background-color: #FFFFFF;
-    padding: 4px;
+    color: #FFFFFF;
+    background-color: #0F2834;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 
 .span_header_menu_item a:hover {
@@ -65,7 +69,7 @@ header {
 }
 
 @keyframes span_header_menu_item_fill {
-    from { color: #616264; background-color: #FFFFFF; }
+    from { color: #FFFFFF; background-color: #0F2834; }
     to { color: #FFFFFF; background-color: #CD1A5E; }
 }
 
@@ -154,8 +158,6 @@ article {
 
 .div_description img {
     width: 100%;
-    /*max-width: 800px;*/
-    /*height: 110px;*/
 }
 
 .div_linkbox {
@@ -199,11 +201,16 @@ article {
     clear: both;
 }
 
-.div_ceo_name {
+.div_leader_photo img {
+    width: 120px;
+    height: 120px;
+}
+
+.div_leader_name {
     font-size: 25px;
 }
 
-.div_ceo_name_sub {
+.div_leader_name_sub {
     font-size: 16px;
 }
 
@@ -225,13 +232,30 @@ article {
     color: #000000;
 }
 
+.div_press_info span {
+    padding: 3px;
+}
+
+.span_press_source {
+    color: #FFFFFF;
+    background-color: #CD1A5E;
+}
+
+.span_press_release {
+    color: #3E3E3E;
+}
+
 footer {
     clear: both;
-    margin-top: 55px;
-    margin-bottom: 55px;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 55px;
+
     
-    background-color: #FFFFFF;
-    color: #585A5B;
+    color: #FFFFFF;
+    background-color: #0F2834;
 }
 
 .div_business_main {
@@ -348,9 +372,17 @@ footer {
 }
 
 .div_footer_main {
+
     margin-left: auto;
     margin-right: auto;
+    padding-top: 55px;
+
     max-width: 950px;
+
+    
+    border-top-style: solid;
+    border-top-width: 45px;
+    border-top-color: #FFFFFF;
 }
 
 .div_footer_sub {
@@ -374,12 +406,12 @@ footer {
 
 .div_footer_contacts a {
     text-decoration: none;
-    color: #585A5B;
+    color: #E0E0E0;
 }
 
 .div_footer_contacts a:hover {
-    text-decoration: underline;
-    color: #CD1A5E;
+    color: #FFFFFF;
+    background-color: #CD1A5E;
 }
 
 .div_footer_contacts_title {

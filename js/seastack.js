@@ -13,7 +13,7 @@ var seaStack;
 (function(seaStack) {
 
     seaStack.seaElements = [];
-    seaStack.entryElements = ["TITLE", "HEADER", "NAV", "FOOTER", "ARTICLE", "SECTION", "UL", "LI", "H1", "H2", "DIV", "SPAN", "P", "SVG", "A", "IMG", "VIDEO", "AUDIO", "IFRAME"];
+    seaStack.entryElements = ["TITLE", "HEADER", "NAV", "FOOTER", "ARTICLE", "SECTION", "UL", "LI", "H1", "H2", "DIV", "SPAN", "P", "SVG", "A", "IMG", "VIDEO", "AUDIO", "IFRAME", "UL", "LI"];
 
     function init(element) {
         if (!(element instanceof HTMLElement)) return;

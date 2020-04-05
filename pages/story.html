@@ -10,7 +10,7 @@
     </head>
     <body>
         <header sea-source="../html/header.html"></header>
-        <header>
+        <article>
             <div class="div_header_main">
                 <div class="div_intro_logo_mini">
                     <img src="../img/logo_neuro_mini.png" />
@@ -19,7 +19,7 @@
                     WE HAVE A <span class="div_intro_title_impression">STORY</span> FOR YOUR EVOLUTION
                 </div>
             </div>
-        </header>
+        </article>
         <article>
             <div class="div_business_main">
                 <div class="div_business_sub_title">
@@ -27,24 +27,20 @@
                 </div>
                 <div class="div_business_sub_description">
                     <div class="div_description">
-                        <div class="div_title">IRMI</div>
                         <div>
-                            IRMI가 제시하는 실시간 인터랙티브를 지원하는 동적인 인포그래픽(Interactive Realtime Motion Inforgraphics)은 지금까지 볼 수 없던 새로운 데이터 시각화를 제공합니다.
+                            (주)뉴로어소시에이츠는 2013년부터 데이터를 접근하는 기술의 혁신을 지속해왔습니다. 
                         </div>
-                        <div class="div_linkbox">
-                            <a onclick="openMovie('2zK_Zcf14nM');">IRMI 소개 영상</a>
-                            <a onclick="openMovie('UpbUJF-PKGc');">프로젝트 영상</a>
-                        </div>
-                        <div class="div_linkbox">
-                            <a onclick="openMovie('pNoKsh4rJWA');">지하철 혼잡도 분석 데모</a>
-                            <a onclick="openMovie('w0RO8sWrvuc');">키오스크 데모</a>
-                        </div>
-                        <div class="div_title">HEDI</div>
                         <div>
-                            HEDI는 IRMI의 확장된 3차원 증강현실 속의 인포그래픽을 제공합니다.
+                            고객의 데이터 분석과 사업 개선을 위한 컨설팅에서 시작한 뉴로어소시에이츠는 
+                            오늘날 인포그래픽은 물론 동적으로 실시간 반응하는 IRMI 카테고리를 창안하고 
+                            증강현실로 확장한 HEDI를 제안하여
+                            정부기관과 기업을 위한 사례들을 만들어냄으로서 데이터 시각화 시장을 선도하고 있습니다.
                         </div>
-                        <div class="div_linkbox">
-                            <a onclick="openMovie('lTqvZE5fMRw');">HEDI 소개 영상</a>
+                        <div>
+                            데이터 사업 수행경험을 바탕으로
+                            과학기술정보통신부, 한국정보화진흥원, 서울산업진흥원과 함께
+                            데이터 분석부터 시각화까지 해결하는 데이터 전문가 교육사업을 진행하여
+                            대한민국 ICT 산업발전에 기여하고 있습니다.
                         </div>
                     </div>
                 </div>
@@ -57,18 +53,57 @@
                     <div class="div_title"><span>Leadership</span></div>
                 </div>
                 <div class="div_business_sub_description">
-                    <div class="div_description" sea-source="../html/about_educations.html" sea-data="../data/about_educations.json"></div>
+                    <div class="div_description">
+                        <div class="div_leader_photo">
+                            <img src="../img/story_leader_yoonyi.jpg" />
+                        </div>
+                        <div class="div_leader_name">
+                            김윤이
+                        </div>
+                        <div class="div_leader_name_sub">
+                            CEO / Yoonyi Kim / 대표이사
+                        </div>
+                        <div class="div_leader_description">
+                            김윤이 대표는 KAIST 뇌공학응용수학을 전공하고 하버드 케네디스쿨에서 석사 학위를 받았습니다. 
+                            2013년 뉴로어소시에이츠를 창업하고 대표직을 수행하고 있습니다.
+                        </div>
+                        <div class="div_linkbox">
+                            <a href="http://yoonyikim.com">Facebook</a>
+                        </div>
+                    </div>
+                    <div class="div_description">
+                        <div class="div_leader_photo">
+                            <img src="../img/story_leader_jongwook.jpg" />
+                        </div>
+                        <div class="div_leader_name">
+                            박종욱
+                        </div>
+                        <div class="div_leader_name_sub">
+                            CTO / Jongwook Park / 기술전략이사
+                        </div>
+                        <div class="div_leader_description">
+                            박종욱 이사는 2014년 뉴로어소시에이츠에 합류했습니다. 대학에서 컴퓨터공학을 전공하고
+                            2002년부터 소프트웨어 개발자로 다양한 분야의 프로젝트를 수행해왔습니다.
+                        </div>                      
+                        <div class="div_linkbox">
+                            <a href="http://www.linkedin.com/pub/jongwook-park/51/530/255">LinkedIn</a>
+                        </div>
+                    </div>
                 </div>
                 <div class="div_clear"></div>
             </div>
         </article>
-        <article>
+        <article class="article_press">
             <div class="div_business_main">
-                <div class="div_business_sub_full">
-                    <div class="div_title"><span>Media</span></div>
-                    <div class="div_clients_description" sea-source="../html/story_clients.html" sea-data="../data/story_clients.json"></div>
-                    <div class="div_clear"></div>
+                <div class="div_business_sub_title">
+                    <div class="div_title"><span>Press</span></div>
                 </div>
+                <div class="div_business_sub_description">
+                    <div class="div_description">
+                        <ul sea-source="../html/story_press.html" sea-data="../data/story_press.json"></ul>
+                    </div>
+                </div>
+                <div class="div_clear"></div>
             </div>
         </article>
         <footer sea-source="../html/footer.html" sea-data="../data/contacts.json"></footer>
