@@ -115,6 +115,14 @@
         {
             "title": "우리금융경영연구소",
             "image_url": "../img/logo_client_29.png"
+        },
+        {
+            "title": "한국정보화진흥원",
+            "image_url": "../img/logo_client_30.png"
+        },
+        {
+            "title": "과학기술정보통신부",
+            "image_url": "../img/logo_client_31.png"
         }
     ]
 }
