@@ -37,16 +37,28 @@
             "link": "https://www.etnews.com/20191203000165"
         },
         {
+            "press": "스트레이트뉴스",
+            "release": "2019.09.10",
+            "title": "소프트웨어 잘하는 언니들이 전수하는 성장 노하우를 만나다!",
+            "link": "http://www.straightnews.co.kr/news/articleView.html?idxno=55298"
+        },
+        {
             "press": "전자신문",
             "release": "2019.09.02",
             "title": "NIA, 7일 SW웰컴 걸스 개최, SW 여성인재 모여라",
             "link": "https://www.etnews.com/20190902000081"
         },
         {
-            "press": "스트레이트뉴스",
-            "release": "2019.09.10",
-            "title": "소프트웨어 잘하는 언니들이 전수하는 성장 노하우를 만나다!",
-            "link": "http://www.straightnews.co.kr/news/articleView.html?idxno=55298"
+            "press": "뉴스1",
+            "release": "2019.08.29",
+            "title": "내일의 방송PD는 나..과기부, 방송미디어 직업체험전 개최",
+            "link": "https://www.news1.kr/articles/?3706982"
+        },
+        {
+            "press": "정책브리핑",
+            "release": "2019.08.29",
+            "title": "초연결시대, 방송의 신(新) 직업 무엇을 잡(JOB)아야 할까?",
+            "link": "http://www.korea.kr/news/pressReleaseView.do?newsId=156347865&call_from=media_daum"
         },
         {
             "press": "전자신문",
@@ -59,6 +71,12 @@
             "release": "2019.06.10",
             "title": "NIA, SW 여성테크커뮤니티 합동세미나 개최",
             "link": "https://www.etnews.com/20190610000167"
+        },
+        {
+            "press": "아주경제",
+            "release": "2018.11.13",
+            "title": "[줌인엔터프라이즈] 출범 3년 만에 핀테크 시장 리드 '데일리금융'",
+            "link": "https://www.ajunews.com/view/20181113085847832"
         },
         {
             "press": "매일경제",
@@ -89,24 +107,6 @@
             "release": "2018.09.09",
             "title": "미래 여성 SW 인재 만남의 장 'SW 웰컴즈 걸즈' 성료",
             "link": "https://www.etnews.com/20180907000138"
-        },
-        {
-            "press": "뉴스1",
-            "release": "2019.08.29",
-            "title": "내일의 방송PD는 나..과기부, 방송미디어 직업체험전 개최",
-            "link": "https://www.news1.kr/articles/?3706982"
-        },
-        {
-            "press": "정책브리핑",
-            "release": "2019.08.29",
-            "title": "초연결시대, 방송의 신(新) 직업 무엇을 잡(JOB)아야 할까?",
-            "link": "http://www.korea.kr/news/pressReleaseView.do?newsId=156347865&call_from=media_daum"
-        },
-        {
-            "press": "아주경제",
-            "release": "2018.11.13",
-            "title": "[줌인엔터프라이즈] 출범 3년 만에 핀테크 시장 리드 '데일리금융'",
-            "link": "https://www.ajunews.com/view/20181113085847832"
         },
         {
             "press": "뉴시스",
