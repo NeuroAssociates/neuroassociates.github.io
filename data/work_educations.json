@@ -17,6 +17,15 @@
             "url_image": "../img/work_datadesigners.png",
             "url_youtube": "",
             "description": "데이터 디자이너는 데이터를 아우르는 작업(Data Works)의 전영역을 다루며, 이를 통해 새로운 의미의 기획을 해내는 인재를 의미합니다."
+        },
+        {
+            "year": "2017",
+            "title": "통일마라톤",
+            "client": "아주대학교 아주통일연구소",
+            "url_site": "",
+            "url_image": "../img/work_ajouunivlab.png",
+            "url_youtube": "",
+            "description": "아주대학교와 함께 위와 같은 미래를 구체적으로 고민하고 국민들이 대비·계획된 상태에서 인생의 터닝포인트를 맞이하게 돕는 담론의 장을 마련했습니다."
         }
     ]
 }

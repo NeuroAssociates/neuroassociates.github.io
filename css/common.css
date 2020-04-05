@@ -286,8 +286,9 @@ footer {
 }
 
 .div_work_cell {
-    margin-top: 0px;
+    margin: 0px;
     margin-bottom: 30px;
+    padding-left: 0px;
     padding-top: 10px;
     padding-bottom: 20px;
 }
@@ -495,6 +496,16 @@ footer {
         width: 100%;
     }
     
+    .div_work_cell_left {
+        width: 100%;
+        margin: 0px;
+        padding: 10px;
+    }
+
+    .div_work_cell img {
+        margin: 0px;
+        padding: 10px;
+    }
 }
 
 @media screen and (min-width: 360px) and (max-width : 600px) {
@@ -531,6 +542,16 @@ footer {
         width: 100%;
     }
 
+    .div_work_cell_left {
+        width: 100%;
+        margin: 0px;
+        padding: 10px;
+    }
+
+    .div_work_cell img {
+        margin: 0px;
+        padding: 10px;
+    }
 }
 
 @media screen and (min-width: 600px) { 
