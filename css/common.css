@@ -131,6 +131,10 @@ article {
     line-height: 55px;
 }
 
+.div_title img {
+    width: 100%;
+}
+
 .div_title span {
     border-top-style: solid;
     border-top-width: 4px;
@@ -139,9 +143,10 @@ article {
 }
 
 .div_title_sub {
-    margin-top: 0px;
+    margin-top: 24px;
     margin-bottom: 15px;
-    font-weight: bold;
+    margin-right: 55px;
+    font-weight: nornaml;
 }
 
 .div_description {
@@ -195,6 +200,11 @@ article {
     background-color: #CD1A5E;
     color: #FFFFFF;
     text-decoration: none;
+}
+
+.div_blank {
+    margin-top: 55px;
+    margin-bottom: 35px;
 }
 
 .div_clear {
