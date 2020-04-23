@@ -1,6 +1,15 @@
 {
     "seadata": [
         {
+            "year": "2020",
+            "title": "Seastack.js",
+            "client": "뉴로어소시에이츠",
+            "url_site": "https://github.com/NeuroAssociates/seastack",
+            "url_image": "../img/work_seastack.jpg",
+            "url_youtube": "",
+            "description": "뉴로어소시에이츠가 개발한 JavaScript 코딩을 줄이면서 데이터 기반 웹문서 제작을 도와주는 라이브러리, Seastack.js를 오픈소스로 공개합니다."
+        },
+        {
             "year": "2018",
             "title": "데이터 시각화 웹 프레임워크 비교분석",
             "client": "뉴로어소시에이츠",
