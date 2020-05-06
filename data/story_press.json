@@ -1,6 +1,30 @@
 {
     "seadata": [
         {
+            "press": "머니투데이",
+            "release": "2020.05.06",
+            "title": "공공데이터 전략위 발족…정 총리 '디지털 뉴딜 추진'",
+            "link": "https://news.mt.co.kr/mtview.php?no=2020050610453949724&outlink=1&ref=%3A%2F%2F"
+        },
+        {
+            "press": "전자신문",
+            "release": "2020.05.06",
+            "title": "공공데이터로 '포스트 코로나 시대' 혁신 성장 이끈다",
+            "link": "https://www.etnews.com/20200506000156"
+        },
+        {
+            "press": "뉴스1",
+            "release": "2020.05.06",
+            "title": "정총리 '핵심 공공데이터 과감히 개방해 신산업 창출'",
+            "link": "https://www.news1.kr/articles/?3926148"
+        },
+        {
+            "press": "뉴스핌",
+            "release": "2020.05.06",
+            "title": "공공데이터, 올해 4.9만건 개방...민관연구·비지니스모델 지원",
+            "link": "http://www.newspim.com/news/view/20200506000402"
+        },
+        {
             "press": "전자신문",
             "release": "2020.01.03",
             "title": "NIA, 주니어부터 시니어까지 생애주기별 디지털 리더 양성 새해도 활발 진행",
