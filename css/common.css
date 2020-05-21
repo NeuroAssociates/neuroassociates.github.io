@@ -94,6 +94,12 @@ header {
     line-height: 39px;
 }
 
+.div_intro_title > .img_internship {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
 .div_intro_title_impression {
     color: #CD1A5E;
     font-weight: bold;
@@ -163,6 +169,11 @@ article {
 
 .div_description img {
     width: 100%;
+}
+
+.div_description > .img_internship_icon {
+    width: 64px;
+    height: 64px;
 }
 
 .div_linkbox {
