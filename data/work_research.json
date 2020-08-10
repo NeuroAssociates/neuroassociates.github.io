@@ -49,7 +49,7 @@
             "year": "2013",
             "title": "서울시 하수수위 현황",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/seoul_sewege_map_1a/",
+            "url_site": "",
             "url_image": "../img/work_neurosewer.jpg",
             "url_youtube": "",
             "description": "서울시가 제공하는 실제 정보를 실시간으로 활용하는 데이터시각화 데모입니다."
@@ -58,7 +58,7 @@
             "year": "2013",
             "title": "스타벅스 무료제공 이벤트 현황",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/boston_starbucks_event",
+            "url_site": "",
             "url_image": "../img/work_neurostarbucks.jpg",
             "url_youtube": "",
             "description": "가상의 정보를 사용해 데이터시각화의 활용성을 보여주기 위한 데모입니다."
@@ -67,7 +67,7 @@
             "year": "2013",
             "title": "All That Beef",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/meat_wordcloud/",
+            "url_site": "",
             "url_image": "../img/work_neurobeef.jpg",
             "url_youtube": "",
             "description": "쇠고기 부위별 정보를 기초로 칼로리와 가상의 할인 정보를 조합시킨 데이터시각화 데모입니다."
@@ -76,7 +76,7 @@
             "year": "2013",
             "title": "서울시 세계 도시 경쟁력 순위",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/seoul_gpci/",
+            "url_site": "",
             "url_image": "../img/work_neuroqpci.jpg",
             "url_youtube": "",
             "description": "2008년부터 2013년의 서울 도시 경쟁력 순위 데이터를 시각화하는 데이터시각화의 활용성을 보여주기 위한 데모입니다."
@@ -85,7 +85,7 @@
             "year": "2013",
             "title": "1990년대 빼삐, 휴대폰 가입자 수 비교",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/phone_and_beep/",
+            "url_site": "",
             "url_image": "../img/work_neurophonebeeper.jpg",
             "url_youtube": "",
             "description": "연단위 무선통신기기 가입자 수의 변화를 표현하는 데이터시각화 데모입니다."
@@ -94,7 +94,7 @@
             "year": "2013",
             "title": "세계 Top 10 휴대폰 제조사",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/world_cellphone_tile/",
+            "url_site": "",
             "url_image": "../img/work_neurocellphones.jpg",
             "url_youtube": "",
             "description": "2008년부터 2013년 1분기의 휴대전화 업체별 점유율을 동적으로 시각화시켜 데이터시각화의 활용성을 보여주기 위한 데모입니다."
@@ -103,7 +103,7 @@
             "year": "2013",
             "title": "설연휴 고속도로 통행량",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/traffic_monitor/",
+            "url_site": "",
             "url_image": "../img/work_neurotraffic.jpg",
             "url_youtube": "",
             "description": "한국도로공사의 정보를 기초로 설연휴 고속도로의 통행량 정보를 시각화하는 데이터시각화 데모입니다."
@@ -112,7 +112,7 @@
             "year": "2013",
             "title": "설연휴 귀성/귀경 소요시간",
             "client": "뉴로어소시에이츠",
-            "url_site": "http://neuroassociates.co.kr/irmi/speed_monitor/",
+            "url_site": "",
             "url_image": "../img/work_neurotraffic.jpg",
             "url_youtube": "",
             "description": "한국도로공사의 정보를 기초로 설연휴 고속도로의 통행량 정보를 시각화하는 데이터시각화 데모입니다."
