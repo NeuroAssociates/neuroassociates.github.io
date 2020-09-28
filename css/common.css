@@ -100,6 +100,14 @@ header {
     margin: 0px;
 }
 
+.div_intro_title > .img_public_proposal {
+    width: 75%;
+    padding: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .div_intro_title_impression {
     color: #CD1A5E;
     font-weight: bold;
@@ -134,7 +142,7 @@ article {
     font-size: 28px;
     font-weight: normal;
     text-align: left;
-    line-height: 55px;
+    line-height: 45px;
 }
 
 .div_title img {
@@ -146,6 +154,20 @@ article {
     border-top-width: 4px;
     border-top-color: #CD1A5E;
     padding-top: 5px;
+}
+
+.div_title_number {
+    margin-bottom: 5px;
+    font-size: 28px;
+    font-weight: normal;
+    text-align: right;
+    line-height: 55px;
+}
+
+.div_title_number span{
+    color: #FFFFFF;
+    background-color: #CD1A5E;
+    padding: 5px 15px 5px 15px;
 }
 
 .div_title_sub {
@@ -535,6 +557,10 @@ footer {
         height: 71px;
     }
     
+    .div_title_number {
+        text-align: left;
+    }
+    
     .div_business_sub_full {
         padding-bottom: 15px;
     }
@@ -579,6 +605,10 @@ footer {
         margin-top: 125px;
         width: 250px;
         height: 71px;
+    }
+    
+    .div_title_number {
+        text-align: left;
     }
     
     .div_business_sub_full {
@@ -627,6 +657,10 @@ footer {
         height: 146px;
     }
     
+    .div_title_number {
+        text-align: right;
+    }
+
     .div_business_sub_full {
         padding-bottom: 25px;
     }
