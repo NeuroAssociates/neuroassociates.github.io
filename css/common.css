@@ -156,7 +156,7 @@ article {
     padding-top: 5px;
 }
 
-.div_title_number {
+.div_title_section {
     margin-bottom: 5px;
     font-size: 28px;
     font-weight: normal;
@@ -164,7 +164,7 @@ article {
     line-height: 55px;
 }
 
-.div_title_number span{
+.div_title_section span{
     color: #FFFFFF;
     background-color: #CD1A5E;
     padding: 5px 15px 5px 15px;
@@ -557,7 +557,7 @@ footer {
         height: 71px;
     }
     
-    .div_title_number {
+    .div_title_section {
         text-align: left;
     }
     
@@ -607,7 +607,7 @@ footer {
         height: 71px;
     }
     
-    .div_title_number {
+    .div_title_section {
         text-align: left;
     }
     
@@ -657,7 +657,7 @@ footer {
         height: 146px;
     }
     
-    .div_title_number {
+    .div_title_section {
         text-align: right;
     }
 
