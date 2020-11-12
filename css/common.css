@@ -113,6 +113,16 @@ header {
     font-weight: bold;
 }
 
+.div_intro_title_impression_big {
+    color: #CD1A5E;
+    font-weight: bold;
+    font-size: 65px;
+}
+
+.div_intro_title_impression_sub {
+    color: #585A5B;
+}
+
 .div_intro_description {
     max-width: 512px;
     color: #585A5B;
@@ -168,6 +178,10 @@ article {
     color: #FFFFFF;
     background-color: #CD1A5E;
     padding: 5px 15px 5px 15px;
+}
+
+.div_title_section img{
+    width: 150px;
 }
 
 .div_title_sub {
@@ -242,6 +256,15 @@ article {
 
 .div_clear {
     clear: both;
+}
+
+.div_conding_title_photo {
+    text-align: right;
+}
+
+.div_conding_title_photo img {
+    width: 120px;
+    height: 120px;
 }
 
 .div_leader_photo img {
@@ -461,6 +484,20 @@ footer {
     font-weight: bold;
 }
 
+.div_fill_gray {
+    color: #FFFFFF;
+    background-color: #3E3E3E;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.div_fill_theme {
+    color: #FFFFFF;
+    background-color: #CD1A5E;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
 #cover_things {
     position: fixed;
     top: 0px;
@@ -585,6 +622,10 @@ footer {
         margin: 0px;
         padding: 10px;
     }
+
+    .div_conding_title_photo {
+        text-align: left;
+    }
 }
 
 @media screen and (min-width: 360px) and (max-width : 600px) {
@@ -634,6 +675,10 @@ footer {
     .div_work_cell img {
         margin: 0px;
         padding: 10px;
+    }
+
+    .div_conding_title_photo {
+        text-align: left;
     }
 }
 
