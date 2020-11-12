@@ -18,7 +18,7 @@ header {
     margin-top: 0px;
     padding-top: 15px;
     margin-bottom: 85px;
-    background-color: #0F2834;
+    background-color: #70EBF9;
     color: #232322;
     font-size: 17px;
     text-align: left;
@@ -53,8 +53,8 @@ header {
 
 .span_header_menu_item a {
     text-decoration: none;
-    color: #FFFFFF;
-    background-color: #0F2834;
+    color: #02151A;
+    background-color: #70EBF9;
     padding-top: 26px;
     padding-bottom: 20px;
     padding-left: 4px;
@@ -64,13 +64,13 @@ header {
 .span_header_menu_item a:hover {
     text-decoration: none;
     color: #FFFFFF;
-    background-color: #CD1A5E;
+    background-color: #672ACC;
     animation: span_header_menu_item_fill 0.43s;
 }
 
 @keyframes span_header_menu_item_fill {
-    from { color: #FFFFFF; background-color: #0F2834; }
-    to { color: #FFFFFF; background-color: #CD1A5E; }
+    from { color: #FFFFFF; background-color: #70EBF9; }
+    to { color: #FFFFFF; background-color: #672ACC; }
 }
 
 .span_header_menu_item img {
@@ -109,12 +109,12 @@ header {
 }
 
 .div_intro_title_impression {
-    color: #CD1A5E;
+    color: #672ACC;
     font-weight: bold;
 }
 
 .div_intro_title_impression_big {
-    color: #CD1A5E;
+    color: #672ACC;
     font-weight: bold;
     font-size: 65px;
 }
@@ -162,7 +162,7 @@ article {
 .div_title span {
     border-top-style: solid;
     border-top-width: 4px;
-    border-top-color: #CD1A5E;
+    border-top-color: #672ACC;
     padding-top: 5px;
 }
 
@@ -176,7 +176,7 @@ article {
 
 .div_title_section span{
     color: #FFFFFF;
-    background-color: #CD1A5E;
+    background-color: #672ACC;
     padding: 5px 15px 5px 15px;
 }
 
@@ -224,7 +224,7 @@ article {
     
     width: 30px;
     height: 30px;
-    background-color: #CD1A5E;
+    background-color: #672ACC;
 }
 
 .div_linkbox a {
@@ -243,8 +243,8 @@ article {
 }
 
 .div_linkbox a:hover {
-    border-color: #CD1A5E;
-    background-color: #CD1A5E;
+    border-color: #672ACC;
+    background-color: #672ACC;
     color: #FFFFFF;
     text-decoration: none;
 }
@@ -304,7 +304,7 @@ article {
 
 .span_press_source {
     color: #FFFFFF;
-    background-color: #CD1A5E;
+    background-color: #672ACC;
 }
 
 .span_press_release {
@@ -320,8 +320,8 @@ footer {
     padding-bottom: 55px;
 
     
-    color: #FFFFFF;
-    background-color: #0F2834;
+    color: #02151A;
+    background-color: #70EBF9;
 }
 
 .div_business_main {
@@ -417,7 +417,7 @@ footer {
 .div_work_cell_title {
     /*border-top-style: solid;
     border-top-width: 4px;
-    border-top-color: #CD1A5E;*/
+    border-top-color: #672ACC;*/
     padding-top: 15px;
     /* padding-bottom: 5px; */
     font-weight: bold;
@@ -472,12 +472,12 @@ footer {
 
 .div_footer_contacts a {
     text-decoration: none;
-    color: #E0E0E0;
+    color: #672ACC;
 }
 
 .div_footer_contacts a:hover {
     color: #FFFFFF;
-    background-color: #CD1A5E;
+    background-color: #672ACC;
 }
 
 .div_footer_contacts_title {
@@ -493,7 +493,7 @@ footer {
 
 .div_fill_theme {
     color: #FFFFFF;
-    background-color: #CD1A5E;
+    background-color: #672ACC;
     padding-left: 7px;
     padding-right: 7px;
 }
@@ -557,8 +557,8 @@ footer {
 }
 
 #cover_things_close span:hover {
-    border-color: #CD1A5E;
-    background-color: #CD1A5E;
+    border-color: #672ACC;
+    background-color: #672ACC;
     color: #FFFFFF;
 }
 
