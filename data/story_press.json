@@ -1,6 +1,30 @@
 {
     "seadata": [
         {
+            "press": "아주경제신문",
+            "release": "2020.12.15",
+            "title": "전자정부추진위 '코로나 이후 디지털 정부 혁신, 민간이 주도해야'",
+            "link": "https://www.ajunews.com/view/20201215092623329"
+        },
+        {
+            "press": "한국강사신문",
+            "release": "2020.11.13",
+            "title": "특집 인터넷 LIVE ‘2020 SW 미래채움 네트워킹 데이!’",
+            "link": "http://www.lecturernews.com/news/articleView.html?idxno=55471"
+        },
+        {
+            "press": "대구신문",
+            "release": "2020.11.11",
+            "title": "'‘혁신생태계 활성화’ 전문가 40인 뭉쳤다...대구시 주최 자문단 출범",
+            "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=328447"
+        },
+        {
+            "press": "서울경제",
+            "release": "2020.11.11",
+            "title": "대구시 '혁신생태계 활성화 자문단' 출범",
+            "link": "https://news.v.daum.net/v/20201111091334596"
+        },
+        {
             "press": "연합뉴스",
             "release": "2020.10.29",
             "title": "기재차관 '경제사회 전반에 디지털 혁신·역동성 확산시켜야'",
