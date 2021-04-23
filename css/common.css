@@ -3,8 +3,9 @@
 body {
     padding: 0px;
     margin: 0px;
-    /*font-family: Helvetica, "Apple SD Gothic Neo", Osaka, 돋움, Dotum, AppleGothic, Arial, sans-serif;*/
-    font-family: -apple-system, HelveticaNeue, "Noto Sans KR", sans-serif;
+    /* font-family: Helvetica, "Apple SD Gothic Neo", Osaka, 돋움, Dotum, AppleGothic, Arial, sans-serif; */
+    /* font-family: -apple-system, HelveticaNeue, "Noto Sans KR", sans-serif;  */
+    font-family: "Noto Sans KR", sans-serif !important;
     background-color: #FFFFFF;
     /*max-width: 1024px;*/
     line-height: 1.45em;
