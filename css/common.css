@@ -390,6 +390,23 @@ footer {
     animation: div_work_cell_fill 0.43s;
 }
 
+.div_quotation {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    font-style: italic;
+}
+
+.div_quotation:before {
+    content: "\201C";
+    font-size: 3em;
+    font-family: Georgia;
+    color: #bcbcbc;
+    float: left;
+    margin: -5px 10px 0px -10px;
+}
+
+
 @keyframes div_work_cell_fill {
     from { background-color: #FFFFFF;}
     to { background-color: #EEEEEE; }
