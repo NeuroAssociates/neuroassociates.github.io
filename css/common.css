@@ -120,6 +120,12 @@ header {
     font-size: 65px;
 }
 
+@media screen and (max-width: 600px) { 
+    .div_intro_title_impression_big {
+        font-size: 40px;
+    }
+}
+
 .div_intro_title_impression_sub {
     color: #585A5B;
 }
