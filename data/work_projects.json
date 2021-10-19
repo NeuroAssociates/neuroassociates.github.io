@@ -31,7 +31,7 @@
             "year": "2015",
             "title": "오늘의 서울 재정",
             "client": "서울특별시",
-            "url_site": "http://data.seoul.go.kr/inter/ko/tax/index.html",
+            "url_site": "https://data.seoul.go.kr/inter/ko/tax/index.html",
             "url_image": "../img/work_seoultax.jpg",
             "url_youtube": "openMovie('QARtB92wfWU')",
             "description": "재정시계라는 혁신적인 방법으로 매일 실시간으로 업데이트되는 서울시의 예산집행 현황을 보여줍니다."
@@ -40,7 +40,7 @@
             "year": "2015",
             "title": "한 눈에 보는 서울 물가",
             "client": "서울특별시",
-            "url_site": "http://data.seoul.go.kr/inter/ko/price/index.html",
+            "url_site": "https://data.seoul.go.kr/inter/ko/price/index.html",
             "url_image": "../img/work_seoulprice.jpg",
             "url_youtube": "",
             "description": "각 자치구별 장바구니 물가 상황을 비교할 수 있는 새로운 방법을 제시했습니다."
@@ -49,7 +49,7 @@
             "year": "2015",
             "title": "숫자로 보는 서울 반세기",
             "client": "서울특별시",
-            "url_site": "http://data.seoul.go.kr/inter/ko/history/index.html",
+            "url_site": "https://data.seoul.go.kr/inter/ko/history/index.html",
             "url_image": "../img/work_seoulhistory.jpg",
             "url_youtube": "",
             "description": "서울의 역사를 통계자료를 통해 느낄 수 있도록 합니다."
@@ -58,7 +58,7 @@
             "year": "2015",
             "title": "지금 이 시간 서울 미세먼지",
             "client": "서울특별시",
-            "url_site": "http://data.seoul.go.kr/inter/ko/sky/index.html",
+            "url_site": "https://data.seoul.go.kr/inter/ko/sky/index.html",
             "url_image": "../img/work_seoulsky.jpg",
             "url_youtube": "",
             "description": "시간별로 업데이트되는 초미세먼지, 미세먼지, 오존 등의 현황을 보여줍니다."
