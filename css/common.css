@@ -47,6 +47,12 @@ header {
     padding-bottom: 26px;
 }
 
+.div_header_main h2 {
+    background-color: #672ACC;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
 .span_header_menu_item {
     color: #616264;
     font-weight: normal;
