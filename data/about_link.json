@@ -1,0 +1,14 @@
+{
+    "seadata": [
+        {
+            "title": "Facebook 페이지",
+            "link": "https://www.facebook.com/neuroassociatessns/",
+            "image_url": "../img/icon_facebook.png"
+        },
+        {
+            "title": "YouTube 채널",
+            "link": "https://www.youtube.com/channel/UCHjbjIdiu0M1pRZ5p7DyyRQ",
+            "image_url": "../img/icon_youtube.png"
+        }
+    ]
+}

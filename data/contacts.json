@@ -1,0 +1,21 @@
+{
+    "seadata": [
+        {
+            "company_name": "주식회사 뉴로어소시에이츠",
+            "company_ceo": "대표이사 김윤이",
+            "company_registration_number": "598-87-00115",
+            "tel": "+82-2-6297-2013",
+            "tel_link": "tel:+82-2-6297-2013",
+            "fax": "+82-2-6499-2083",
+            "email_helpdesk": "helpdesk@neuroacs.com",
+            "email_helpdesk_link": "mailto:helpdesk@neuroacs.com",
+            "email_consulting": "consulting@neuroacs.com",
+            "email_consulting_link": "mailto:consulting@neuroacs.com",
+            "email_recruit": "recruit@neuroacs.com",
+            "email_recruit_link": "mailto:recruit@neuroacs.com",
+            "address": "서울시 마포구 월드컵로10길 13, 2층(서교동)",
+            "map": "https://goo.gl/maps/AkUjVhiTX2TRP5Zo6",
+            "map_embed_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.0158701724445!2d126.91020781576366!3d37.55468987980017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c98d86a6f06f7%3A0x7383219dcc216642!2z7ISc7Jq47Yq567OE7IucIOuniO2PrOq1rCDshJzqtZDrj5kg7JuU65Oc7Lu166GcMTDquLggMTM!5e0!3m2!1sko!2skr!4v1601263651312!5m2!1sko!2skr"
+        }
+    ]
+}
