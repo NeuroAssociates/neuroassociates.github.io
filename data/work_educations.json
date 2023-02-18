@@ -1,6 +1,15 @@
 {
     "seadata": [
         {
+            "year": "2022-2023",
+            "title": "앱 스쿨 1기",
+            "client": "멋쟁이사자처럼",
+            "url_site": "",
+            "url_image": "../img/work_appschool.png",
+            "url_youtube": "",
+            "description": "멋쟁이사자처럼 앱 스쿨 1기 - iOS 앱 개발자 양성 프로그램에 강사진과 교육 콘텐츠를 제공했습니다."
+        },
+        {
             "year": "2017-2019",
             "title": "데잇걸즈",
             "client": "한국정보화진흥원",
