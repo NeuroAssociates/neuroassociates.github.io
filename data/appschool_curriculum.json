@@ -1,0 +1,29 @@
+{
+    "seadata": [
+        {
+            "number": "01",
+            "title": "프로그래밍 기초",
+            "description": "CS기초, Git/GitHub"
+        },
+        {
+            "number": "02",
+            "title": "앱 개발 기초",
+            "description": "Swift 기초, Objective-C 언어 기초"
+        },
+        {
+            "number": "03",
+            "title": "앱 개발 심화",
+            "description": "UIKit, SwiftUI, Firebase"
+        },
+        {
+            "number": "04",
+            "title": "프로젝트",
+            "description": "프로토타이핑, MVP 앱 개발, 최종프로젝트"
+        },
+        {
+            "number": "05",
+            "title": "UI/UX",
+            "description": "타이포그래피 기초, 색채학, UX기초, Human Interface Guideline"
+        }
+    ]
+}
