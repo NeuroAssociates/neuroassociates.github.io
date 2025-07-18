@@ -1,10 +1,19 @@
 {
     "seadata": [
         {
+            "year": "2025-",
+            "title": "",
+            "client": "이스트캠프",
+            "url_site": "",
+            "url_image": "../img/work_estcamp.png",
+            "url_youtube": "",
+            "description": "iOS 앱 개발 부트캠프 3기 - iOS 앱 개발자 양성 프로그램에 강사진과 교육 콘텐츠를 제공하고 있습니다."
+        },
+        {
             "year": "2022-2024",
             "title": "앱 스쿨 : iOS",
             "client": "멋쟁이사자처럼",
-            "url_site": "./appschool.html",
+            "url_site": "",
             "url_image": "../img/work_appschool.png",
             "url_youtube": "",
             "description": "멋쟁이사자처럼 앱 스쿨: iOS - iOS 앱 개발자 양성 프로그램에 강사진과 교육 콘텐츠를 제공했습니다."
